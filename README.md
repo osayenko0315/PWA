@@ -1,5 +1,19 @@
 # PWA
 
+## Table of Contents
+
+* [Description](#Description)
+* [User Story ](#User Story )
+* [Acceptance Criteria](#Acceptance Criteria)
+* [Instalation](#Instalation)
+* [Technologies](#Technologies)
+* [Contributors](#Contributors)
+* [Resources](#Resources )
+* [Questions](#Questions)
+* [License](#license)
+
+
+
 ## Description
 JATE is a text editor that runs in the browser. Its a single page application that meets the PWA criteria. It could help developers to create notes or code snippets with or without internet connection so that they could reliably retrieve them for later use.
 
