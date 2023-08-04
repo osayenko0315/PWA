@@ -3,8 +3,6 @@
 ## Table of Contents
 
 * [Description](#Description)
-* [User Story ](#User Story )
-* [Acceptance Criteria](#Acceptance Criteria)
 * [Instalation](#Instalation)
 * [Technologies](#Technologies)
 * [Contributors](#Contributors)
