@@ -51,5 +51,9 @@ Node.js, Express.js, IndexedDB, PWA
 ## Contributors
 No additional contributors on this project.
 
+## Resources
+* https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
+* Unit Ahead : Progressive Web Applications (PWA) class examples
+
 ## Questions
 GITHub: https://github.com/osayenko0315
