@@ -8,6 +8,7 @@ JATE is a text editor that runs in the browser. Its a single page application th
 AS A developer
 I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
+```
 
 ## Acceptance Criteria
 ```md
@@ -36,12 +37,16 @@ WHEN I register a service worker
 THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
+```
 
 ## Instalation
 To run J.A.T.E locally:
 * Pull down and/or branch this repository
 * Run npm i to install all dependencies
 * Invoke application with npm run start
+
+## Technologies
+Node.js, Express.js, IndexedDB, PWA
 
 ## Contributors
 No additional contributors on this project.
